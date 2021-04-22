@@ -11,8 +11,6 @@
 
 > pitu_pakowanko - FiveM addon car packaging utility
 
-### 🏠 [Homepage](https://github.com/Pitu7944/pitu_pakowanko#readme)
-
 ## Install
 
 ```sh
