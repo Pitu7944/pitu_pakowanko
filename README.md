@@ -4,9 +4,6 @@
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/Pitu7944/pitu_pakowanko" />
-  </a>
 </p>
 
 > pitu_pakowanko - FiveM addon car packaging utility
@@ -34,4 +31,3 @@ pipenv run python ./main.py
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
