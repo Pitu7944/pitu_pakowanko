@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to pitu_pakowanko 👋</h1>
+<h1 align="center"><img alt="Welcome to pitu_pakowanko" src="https://i.imgur.com/Opc6yPK.png" /></h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
@@ -8,6 +8,8 @@
 <img alt="made_with_python" src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
 <br/>
 > pitu_pakowanko - FiveM addon car packaging utility
+> 
+
 
 ## Install
 
