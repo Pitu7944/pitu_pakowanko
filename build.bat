@@ -1,0 +1,1 @@
+pipenv run python -m eel ./main.py gui --onefile --icon="pakowanko.ico"

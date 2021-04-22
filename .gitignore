@@ -1,0 +1,5 @@
+*.exe
+*.spec
+*.code-workspace
+build
+dist

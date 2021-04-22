@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700&display=swap');
+
+body {
+    background: #01030a;
+    margin: 15px;
+    overflow: hidden;
+}
+
+#myProgress {
+    width: 495px;
+    background-color: white;
+}
+  
+#myBar {
+    width: 1%;
+    height: 30px;
+    background-color: green;
+}
+
+#consoleOutput {
+    width: 485px;
+    height: 155px;
+    padding: 5px;
+    overflow: scroll;
+    overflow-x: hidden;
+    background: #373B41;
+    color: #8C9440;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+div p {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+
+    color: white;
+    background-color: #01030a;
+    font-family: 'Kiwi Maru', serif;
+    text-align: center;
+    width: 100%;
+}
+
+#navBar {
+    color: white;
+    background-color: #01030ade;
+    margin-top: -15px;
+    margin-left: -15px;
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+
+#navBar > button {
+    flex-grow: 1;
+}
+
+#navBar > button:first-of-type { 
+    border-radius: 0px;
+    color: white;
+    width: auto;
+}
+#navBar > button:nth-of-type(2) { 
+    border-radius: 0px;
+    color: white;
+    width: auto;
+}
+#navBar > button:nth-of-type(3) { 
+    border-radius: 0px;
+    color: white;
+    width: auto;
+}
+#navBar > button:nth-of-type(4) { 
+    border-radius: 0px;
+    color: white;
+    width: auto;
+}
+
