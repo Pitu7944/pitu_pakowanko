@@ -8,7 +8,6 @@
 <img alt="made_with_python" src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
 <br/>
 > pitu_pakowanko - FiveM addon car packaging utility
-> 
 
 
 ## Install
