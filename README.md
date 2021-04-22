@@ -5,7 +5,8 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
 </p>
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+<img alt="made_with_python" src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
+<br/>
 > pitu_pakowanko - FiveM addon car packaging utility
 
 ## Install
